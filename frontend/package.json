@@ -1,0 +1,12 @@
+{
+  "name": "hmcts-task-manager-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the HMCTS caseworker task management challenge",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
