@@ -84,8 +84,11 @@ unit tested) while still being readable and maintainable at this scale.
 
 Possible next steps
 
-Add filtering/sorting in the UI (e.g. by status or due date)
-Add pagination if the task list grows large
-Add authentication if this were exposed beyond a single caseworker
-Swap SQLite for a managed database and add a migrations tool for a real
+- Add filtering/sorting in the UI (e.g. by status or due date)
+
+- Add pagination if the task list grows large
+
+- Add authentication if this were exposed beyond a single caseworker
+
+- Swap SQLite for a managed database and add a migrations tool for a real
 deployment
